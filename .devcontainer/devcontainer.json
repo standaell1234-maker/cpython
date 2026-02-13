@@ -1,4 +1,4 @@
-{
+gh pr checkout 144572{
     "image": "ghcr.io/python/devcontainer:latest",
     "onCreateCommand": [
         // Install common tooling.
