@@ -1,4 +1,4 @@
-{
+zware:bump_multissl{
     "image": "ghcr.io/python/devcontainer:latest",
     "onCreateCommand": [
         // Install common tooling.
